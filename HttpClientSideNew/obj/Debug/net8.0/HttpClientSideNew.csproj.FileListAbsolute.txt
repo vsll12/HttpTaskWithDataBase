@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\NetworkProgramming\HttpClientSideNew\bin\Debug\net8.0\HttpClientSideNew.exe
+C:\Users\DELL\Desktop\NetworkProgramming\HttpClientSideNew\bin\Debug\net8.0\HttpClientSideNew.deps.json
+C:\Users\DELL\Desktop\NetworkProgramming\HttpClientSideNew\bin\Debug\net8.0\HttpClientSideNew.runtimeconfig.json
+C:\Users\DELL\Desktop\NetworkProgramming\HttpClientSideNew\bin\Debug\net8.0\HttpClientSideNew.dll
+C:\Users\DELL\Desktop\NetworkProgramming\HttpClientSideNew\bin\Debug\net8.0\HttpClientSideNew.pdb
+C:\Users\DELL\Desktop\NetworkProgramming\HttpClientSideNew\obj\Debug\net8.0\HttpClientSideNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\NetworkProgramming\HttpClientSideNew\obj\Debug\net8.0\HttpClientSideNew.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\NetworkProgramming\HttpClientSideNew\obj\Debug\net8.0\HttpClientSideNew.AssemblyInfo.cs
+C:\Users\DELL\Desktop\NetworkProgramming\HttpClientSideNew\obj\Debug\net8.0\HttpClientSideNew.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\NetworkProgramming\HttpClientSideNew\obj\Debug\net8.0\HttpClientSideNew.sourcelink.json
+C:\Users\DELL\Desktop\NetworkProgramming\HttpClientSideNew\obj\Debug\net8.0\HttpClientSideNew.dll
+C:\Users\DELL\Desktop\NetworkProgramming\HttpClientSideNew\obj\Debug\net8.0\refint\HttpClientSideNew.dll
+C:\Users\DELL\Desktop\NetworkProgramming\HttpClientSideNew\obj\Debug\net8.0\HttpClientSideNew.pdb
+C:\Users\DELL\Desktop\NetworkProgramming\HttpClientSideNew\obj\Debug\net8.0\HttpClientSideNew.genruntimeconfig.cache
+C:\Users\DELL\Desktop\NetworkProgramming\HttpClientSideNew\obj\Debug\net8.0\ref\HttpClientSideNew.dll

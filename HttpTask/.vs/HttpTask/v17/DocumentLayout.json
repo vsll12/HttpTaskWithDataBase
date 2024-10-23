@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\NetworkProgramming\\HttpTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CA3FB7-D7A5-4E04-8FE6-FC3E963BCF7D}|HttpTask.csproj|c:\\users\\dell\\desktop\\networkprogramming\\httptask\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6CA3FB7-D7A5-4E04-8FE6-FC3E963BCF7D}|HttpTask.csproj|solutionrelative:dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62BF96CB-8E5A-4203-A5AA-E804C8741C17}|..\\HttpClientSideNew\\HttpClientSideNew.csproj|c:\\users\\dell\\desktop\\networkprogramming\\httpclientsidenew\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CA3FB7-D7A5-4E04-8FE6-FC3E963BCF7D}|HttpTask.csproj|c:\\users\\dell\\desktop\\networkprogramming\\httptask\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6CA3FB7-D7A5-4E04-8FE6-FC3E963BCF7D}|HttpTask.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62BF96CB-8E5A-4203-A5AA-E804C8741C17}|..\\HttpClientSideNew\\HttpClientSideNew.csproj|c:\\users\\dell\\desktop\\networkprogramming\\httpclientsidenew\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CA3FB7-D7A5-4E04-8FE6-FC3E963BCF7D}|HttpTask.csproj|c:\\users\\dell\\desktop\\networkprogramming\\httptask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6CA3FB7-D7A5-4E04-8FE6-FC3E963BCF7D}|HttpTask.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CA3FB7-D7A5-4E04-8FE6-FC3E963BCF7D}|HttpTask.csproj|c:\\users\\dell\\desktop\\networkprogramming\\httptask\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6CA3FB7-D7A5-4E04-8FE6-FC3E963BCF7D}|HttpTask.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\NetworkProgramming\\HttpTask\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\NetworkProgramming\\HttpTask\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T13:53:28.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\NetworkProgramming\\HttpTask\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\NetworkProgramming\\HttpTask\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "DTOs\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T13:50:54.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\NetworkProgramming\\HttpClientSideNew\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "..\\HttpClientSideNew\\DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\NetworkProgramming\\HttpClientSideNew\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "..\\HttpClientSideNew\\DTOs\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T13:50:34.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\NetworkProgramming\\HttpTask\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\NetworkProgramming\\HttpTask\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T13:50:20.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\NetworkProgramming\\HttpTask\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\NetworkProgramming\\HttpTask\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAAAF0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:26:46.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\NetworkProgramming\\HttpClientSideNew\\Program.cs",
+              "RelativeDocumentMoniker": "..\\HttpClientSideNew\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\NetworkProgramming\\HttpClientSideNew\\Program.cs",
+              "RelativeToolTip": "..\\HttpClientSideNew\\Program.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAmwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T20:11:24.619Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
